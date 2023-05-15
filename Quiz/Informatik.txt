@@ -1,0 +1,5 @@
+Was ist die CPU voll ausgeschrieben?/A Central Process United/B Central Processing Unit/C Central Proposal Unit/D Centre of Paris/B
+Aus wievielen Bits besteht 1 Byte?/A 8 /B 16/C 32/D 64/A
+Welche der folgenden vier ist eine Programmiersprache?/A HTML /B DPD /C camelCase/D Pascal/D
+Mit welcher Konstruktion behandele ich Exceptions/A if-else/ B switch-case/C try-catch/D do-while-Schleifen/C
+Was gehört nicht auf ein PC-Mainboard?/A Northbridge/B GPU/C RAM-Riegel/D Graphic Card/B

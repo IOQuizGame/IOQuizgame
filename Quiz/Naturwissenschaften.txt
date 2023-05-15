@@ -1,0 +1,5 @@
+Wo befindet sich im menschlichen Körper der Musikantenknochen?/A Wange/B Knie/C Rücken/D Ellenbogen/D  
+Was ist das Zeichen für Berrylium im Periodensystem?/A Au/B Be/C Cs/D Dy/B
+Wie berechnet man den Widerstand?/A P=U*I /B v=s*t/C R=U*I/D Ff=D*s/C
+Was beschreibt das arithmetische Mittel?/A den statistischen Durchschnittswert/B Das Vertauschungsgesetz/C Extremwertberechnung bei Funktionen/D Vektorberechnung/A
+Was für ein Experiment ist das LaPlace Experiment?/A ein psychologisches/B ein neurowissenschaftliches/C ein physikalisches/D ein mathematisches/D
